@@ -1,0 +1,4 @@
+product_results/
+signutils/__pycache__/
+.ipynb_checkpoints/
+*.png
