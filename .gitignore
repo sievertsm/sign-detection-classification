@@ -2,3 +2,5 @@ product_results/
 signutils/__pycache__/
 .ipynb_checkpoints/
 *.png
+training_results/
+*.json
